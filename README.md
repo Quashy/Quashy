@@ -2,7 +2,7 @@
 
 <!-- Typing SVG 打字动画（替代原敲代码动图，对齐博客 hero 紫青渐变） -->
 <a href="https://github.com/Quashy">
-  <img src="https://readme-typing-svg.deta.app?font=Fira+Code&size=28&pause=1000&color=BD34FE&center=true&vCenter=true&width=620&lines=Hi+I'm+Quashy+%F0%9F%91%8B;%E7%A7%A6%E6%99%96%E6%B4%8B;Java+Backend+Developer;%E5%B9%B6%E5%87%BB%E8%BE%93%E5%85%A5%E6%B3%95%E4%BD%9C%E8%80%85;VitePress+%E5%8D%9A%E5%AE%A2%E4%BD%9C%E8%80%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=28&pause=1000&color=BD34FE&center=true&vCenter=true&width=620&lines=Hi+I'm+Quashy+%F0%9F%91%8B;%E7%A7%A6%E6%99%96%E6%B4%8B;Java+Backend+Developer;%E5%B9%B6%E5%87%BB%E8%BE%93%E5%85%A5%E6%B3%95%E4%BD%9C%E8%80%85;VitePress+%E5%8D%9A%E5%AE%A2%E4%BD%9C%E8%80%85" alt="Typing SVG" />
 </a>
 
 <!-- for beauty 留个空行好看点 -->
@@ -47,21 +47,21 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">OpenClaw4J</h3>
-      <p align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Quashy&repo=OpenClaw4J&title_color=bd34fe&icon_color=41d1ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true" /></p>
+      <p align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Quashy&repo=OpenClaw4J&title_color=bd34fe&icon_color=41d1ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true" /></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">并击 · 双拼练习</h3>
-      <p align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Quashy&repo=bingji-shuangpin&title_color=bd34fe&icon_color=41d1ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true" /></p>
+      <p align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Quashy&repo=bingji-shuangpin&title_color=bd34fe&icon_color=41d1ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true" /></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Quashy.github.io</h3>
-      <p align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Quashy&repo=Quashy.github.io&title_color=bd34fe&icon_color=41d1ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true" /></p>
+      <p align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Quashy&repo=Quashy.github.io&title_color=bd34fe&icon_color=41d1ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true" /></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">shikan-reader · 鹿鸣阅读器</h3>
-      <p align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Quashy&repo=shikan-reader&title_color=bd34fe&icon_color=41d1ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true" /></p>
+      <p align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Quashy&repo=shikan-reader&title_color=bd34fe&icon_color=41d1ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true" /></p>
     </td>
   </tr>
 </table>
@@ -90,8 +90,8 @@
 
 <!-- 统计卡 + 语言占比 + 连续贡献，紫青渐变配色对齐博客 hero -->
 <p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Quashy&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&title_color=bd34fe&icon_color=41d1ff&text_color=c9d1d9&bg_color=0d1117&theme=graywhite" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Quashy&hide_title=true&hide_border=true&layout=donut&langs_count=8&title_color=bd34fe&text_color=c9d1d9&bg_color=0d1117&theme=graywhite" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Quashy&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&title_color=bd34fe&icon_color=41d1ff&text_color=c9d1d9&bg_color=0d1117&theme=graywhite" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Quashy&hide_title=true&hide_border=true&layout=donut&langs_count=8&title_color=bd34fe&text_color=c9d1d9&bg_color=0d1117&theme=graywhite" />
 </p>
 
 <picture>
@@ -131,7 +131,7 @@
 ## 💬 Dev Quote
 
 <p align="center">
-  <img src="https://github-readme-quotes.vercel.app/api?quote=dev&theme=dark&animation=true&bg_color=0d1117&title_color=bd34fe&quote_color=c9d1d9&author_color=41d1ff" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?quote=dev&theme=dark&animation=true&bg_color=0d1117&title_color=bd34fe&quote_color=c9d1d9&author_color=41d1ff" alt="Dev Quote" />
 </p>
 
 ## 📕 Latest Blog Posts
