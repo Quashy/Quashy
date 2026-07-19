@@ -12,20 +12,13 @@
 
 ## 🙋 About Me
 
-<table>
-<tr><td>
+嗨👋，我是秦晖洋（Quashy），一名 Java 后端开发。白天写服务端，夜里折腾各种好玩的东西。
 
-<img align="right" width="88" src="https://avatars.githubusercontent.com/u/76486050?v=4" />
+做过双拼练习网站「[并击](https://github.com/Quashy/bingji-shuangpin)」，用 VitePress 搭了[个人博客](https://quashy.github.io/)，记录技术实践、开源贡献与 AI 时代的思考。相信开源与分享让世界更好。
 
-<p>&emsp;&emsp;嗨👋，我是秦晖洋（Quashy），一名 Java 后端开发。白天写服务端，夜里折腾各种好玩的东西。</p>
-<p>&emsp;&emsp;做过双拼练习网站「<a href="https://github.com/Quashy/bingji-shuangpin">并击</a>」，用 VitePress 搭了<a href="https://quashy.github.io/">个人博客</a>，记录技术实践、开源贡献与 AI 时代的思考。相信开源与分享让世界更好。</p>
-<p>&emsp;&emsp;最近在探索：用 LLM 做人生设计、把国产模型接进自己的工具链、让中文输入更顺手。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+最近在探索：用 LLM 做人生设计、把国产模型接进自己的工具链、让中文输入更顺手。
 
-<div>&nbsp;</div>
-
-</td></tr>
-</table>
+**We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.**
 
 ## 📕 Latest Blog Posts
 
@@ -46,11 +39,6 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Quashy&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=transparent&title_color=bd34fe&icon_color=41d1ff&text_color=1f2937" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Quashy&hide_title=true&hide_border=true&layout=donut&langs_count=8&bg_color=transparent&title_color=bd34fe&text_color=1f2937&icon_color=41d1ff" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Quashy&hide_border=true&background=transparent&ring=bd34fe&fire=41d1ff&currStreakLabel=1f2937&sideLabels=1f2937&currStreakNum=bd34fe&sideNums=41d1ff&dates=6b7280" />
-  <img src="https://streak-stats.demolab.com/?user=Quashy&hide_border=true&background=transparent&ring=bd34fe&fire=41d1ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=bd34fe&sideNums=41d1ff&dates=9ca3af" />
-</picture>
 
 
 <!-- profile-3d-contrib 3D 贡献图（由 profile-3d.yml 每日生成并提交到主分支） -->
