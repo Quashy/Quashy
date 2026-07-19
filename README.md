@@ -34,10 +34,11 @@
 
 ## 📊 GitHub Stats
 
-<!-- 统计卡 + 语言占比 + 连续贡献：透明背景跟随系统明暗，亮模式深字可读，紫青色对齐博客 hero -->
-<p>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Quashy&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=transparent&title_color=bd34fe&icon_color=41d1ff&text_color=1f2937" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Quashy&hide_title=true&hide_border=true&layout=donut&langs_count=8&bg_color=transparent&title_color=bd34fe&text_color=1f2937&icon_color=41d1ff" />
+<!-- 统计卡 + 语言占比：透明背景跟随系统明暗，亮模式深字可读，紫青色对齐博客 hero；两卡水平居中 + 垂直中线对齐 -->
+<p align="center">
+  <img valign="middle" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Quashy&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=transparent&title_color=bd34fe&icon_color=41d1ff&text_color=1f2937" />
+  &emsp;
+  <img valign="middle" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Quashy&hide_title=true&hide_border=true&layout=donut&langs_count=8&bg_color=transparent&title_color=bd34fe&text_color=1f2937&icon_color=41d1ff" />
 </p>
 
 
