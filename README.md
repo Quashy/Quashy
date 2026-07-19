@@ -41,29 +41,17 @@
 
 ## 📊 GitHub Stats
 
-<!-- 统计卡 + 语言占比 + 连续贡献，紫青渐变配色对齐博客 hero -->
+<!-- 统计卡 + 语言占比 + 连续贡献：透明背景跟随系统明暗，亮模式深字可读，紫青色对齐博客 hero -->
 <p>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Quashy&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&title_color=bd34fe&icon_color=41d1ff&text_color=c9d1d9&bg_color=0d1117&theme=graywhite" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Quashy&hide_title=true&hide_border=true&layout=donut&langs_count=8&title_color=bd34fe&text_color=c9d1d9&bg_color=0d1117&theme=graywhite" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Quashy&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=transparent&title_color=bd34fe&icon_color=41d1ff&text_color=1f2937" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Quashy&hide_title=true&hide_border=true&layout=donut&langs_count=8&bg_color=transparent&title_color=bd34fe&text_color=1f2937&icon_color=41d1ff" />
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Quashy&theme=light&hide_border=true&ring=bd34fe&fire=41d1ff&currStreakLabel=c9d1d9" />
-  <img src="https://streak-stats.demolab.com/?user=Quashy&theme=dark&hide_border=true&ring=bd34fe&fire=41d1ff&currStreakLabel=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Quashy&hide_border=true&background=transparent&ring=bd34fe&fire=41d1ff&currStreakLabel=1f2937&sideLabels=1f2937&currStreakNum=bd34fe&sideNums=41d1ff&dates=6b7280" />
+  <img src="https://streak-stats.demolab.com/?user=Quashy&hide_border=true&background=transparent&ring=bd34fe&fire=41d1ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=bd34fe&sideNums=41d1ff&dates=9ca3af" />
 </picture>
 
-<!-- GitHub Activity Graph 活动曲线图 -->
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Quashy&theme=tokyo-night&color=bd34fe&line=41d1ff&point=bd34fe" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Quashy&theme=xcode&color=bd34fe&line=41d1ff&point=bd34fe" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Quashy&theme=tokyo-night&color=bd34fe&line=41d1ff&point=bd34fe" />
-      </picture>
-    </td>
-  </tr>
-</table>
 
 <!-- profile-3d-contrib 3D 贡献图（由 profile-3d.yml 每日生成并提交到主分支） -->
 <picture>
