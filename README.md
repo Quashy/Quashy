@@ -10,7 +10,6 @@
 </picture>
 </div>
 
-## 🙋 About Me
 
 嗨👋，我是秦晖洋（Quashy），一名 Java 后端开发。白天写服务端，夜里折腾各种好玩的东西。
 
