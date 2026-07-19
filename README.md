@@ -67,6 +67,6 @@
 <!-- 社交链接 -->
 <a href="https://github.com/Quashy"><img src="https://img.shields.io/badge/GitHub-Quashy-181717?style=flat-square&logo=github&logoColor=white" /></a>&emsp;
 <a href="https://quashy.github.io/"><img src="https://img.shields.io/badge/Blog-quashy.github.io-8c36db?style=flat-square&logo=hexo&logoColor=white" /></a>&emsp;
-<a href="https://twitter.com/Expired_Can"><img src="https://img.shields.io/badge/Twitter-@Expired__Can-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+<a href="https://x.com/Expired_Can"><img src="https://img.shields.io/badge/X-@Expired__Can-000000?style=flat-square&logo=x&logoColor=white" /></a>
 
 </div>
