@@ -12,6 +12,8 @@
 
 <br>
 
+## 🙋 About Me
+
 嗨👋，我是秦晖洋（Quashy），一名 Java 后端开发。白天写服务端，夜里折腾各种好玩的东西。
 
 做过双拼练习网站「[并击](https://github.com/Quashy/bingji-shuangpin)」，用 VitePress 搭了[个人博客](https://quashy.github.io/)，记录技术实践、开源贡献与 AI 时代的思考。相信开源与分享让世界更好。
