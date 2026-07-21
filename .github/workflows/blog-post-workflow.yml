@@ -24,7 +24,7 @@ jobs:
           committer_username: "github-actions"
           committer_email: "github-actions@github.com"
           commit_message: "📝 docs: 同步最新博客文章列表"
-          date_format: "EEE, dd MMM yyyy HH:mm:ss z"
+          date_format: "yyyy-mm-dd"
           template: "$newline- 📝 [$title]($url) — $date"
           # 自动清理 BLOG-POST-LIST 区间内的旧内容并填充新内容
           comment_tag_name: "BLOG-POST-LIST"
