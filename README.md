@@ -52,12 +52,11 @@
 
 ## 🎵 Now Playing
 
-<!-- Spotify 轻量方案：部署后替换为你的 Vercel 域名 + UID，占位先显示静态图 -->
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=todo&theme=default&bar_color=41d1ff&border_radius=12&show_offline=true" alt="Spotify Now Playing" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nhgnpwupm2swckwo6xt7sw5onm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
 </p>
-
-> 🚧 Spotify 后端待部署（轻量方案，无需 Firebase），部署后替换上方 URL 的 `uid=todo` 为你的 Spotify UID。
 
 ---
 
