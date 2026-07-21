@@ -25,7 +25,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- blog-post-workflow 占位：博客 RSS 已接入（https://quashy.github.io/feed.xml），由 Actions 自动填充博文列表 -->
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- 📝 [从全拼到双拼：我为什么做了「并击」](https://quashy.github.io/2026/from-quanpin-to-shuangpin.html) — EEE, 19 5353 2026 15:07:00 z
+- 📝 [如何参与开源项目](https://quashy.github.io/2026/how-to-contribute-to-open-source.html) — EEE, 16 1212 2026 17:07:00 z
+- 📝 [人生设计：探索你的现在](https://quashy.github.io/2026/designing-your-life.html) — EEE, 14 2525 2026 16:07:00 z
+- 📝 [OpenCode GO 接入 CC Switch 指南](https://quashy.github.io/2026/opencode-go-ccw.html) — EEE, 30 2525 2026 14:06:00 z<!-- BLOG-POST-LIST:END -->
 
 > 博客已接入 RSS（[`feed.xml`](https://quashy.github.io/feed.xml)），`blog-post-workflow` 自动同步博文列表到此区块。
 
