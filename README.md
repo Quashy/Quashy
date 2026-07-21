@@ -25,7 +25,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- blog-post-workflow 占位：博客 RSS 已接入（https://quashy.github.io/feed.xml），由 Actions 自动填充博文列表 -->
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- 📝 从全拼到双拼：我为什么做了「并击」 — 2026-53-19
+- 📝 如何参与开源项目 — 2026-12-16
+- 📝 人生设计：探索你的现在 — 2026-25-14
+- 📝 OpenCode GO 接入 CC Switch 指南 — 2026-25-30<!-- BLOG-POST-LIST:END -->
 
 > 博客已接入 RSS（[`feed.xml`](https://quashy.github.io/feed.xml)），`blog-post-workflow` 自动同步博文列表到此区块。
 
