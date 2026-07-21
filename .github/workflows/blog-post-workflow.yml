@@ -1,0 +1,30 @@
+name: Latest blog posts
+
+on:
+  # 每天 0:17 UTC（≈ 北京时间 8:17）自动更新
+  schedule:
+    - cron: "17 0 * * *"
+  # 允许手动触发（发新博客后可直接运行）
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch RSS feed and update README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://quashy.github.io/feed.xml"
+          max_post_count: 99
+          readme_path: "./README.md"
+          committer_username: "github-actions"
+          committer_email: "github-actions@github.com"
+          commit_message: "📝 docs: 同步最新博客文章列表"
+          date_format: "yyyy-MM-dd"
+          template: "$newline- 📝 $title — $date"
+          # 自动清理 BLOG-POST-LIST 区间内的旧内容并填充新内容
+          comment_tag_name: "BLOG-POST-LIST"

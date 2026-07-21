@@ -24,7 +24,7 @@
 
 ## 📕 Latest Blog Posts
 
-<!-- blog-post-workflow 占位：博客 RSS 接入后由 Actions 自动填充 -->
+<!-- blog-post-workflow 占位：博客 RSS 已接入（https://quashy.github.io/feed.xml），由 Actions 自动填充博文列表 -->
 <!-- BLOG-POST-LIST:START -->
 - 📝 [从全拼到双拼：我为什么做了「并击」](https://quashy.github.io/2026/from-quanpin-to-shuangpin) — 2026-07-19
 - 📝 [如何参与开源项目](https://quashy.github.io/2026/how-to-contribute-to-open-source) — 2026-07-16
@@ -32,7 +32,7 @@
 - 📝 [OpenCode GO 接入 CC Switch 指南](https://quashy.github.io/2026/opencode-go-ccw) — 2026-06-30
 <!-- BLOG-POST-LIST:END -->
 
-> RSS 同步待接入：博客加 `vitepress-plugin-rss` 产出 `/rss.xml` 后，配置 `blog-post-workflow` 自动更新此区块。
+> 博客已接入 RSS（[`feed.xml`](https://quashy.github.io/feed.xml)），`blog-post-workflow` 自动同步博文列表到此区块。
 
 ## 📊 GitHub Stats
 
@@ -67,6 +67,7 @@
 <!-- 社交链接 -->
 <a href="https://github.com/Quashy"><img src="https://img.shields.io/badge/GitHub-Quashy-181717?style=flat-square&logo=github&logoColor=white" /></a>&emsp;
 <a href="https://quashy.github.io/"><img src="https://img.shields.io/badge/Blog-quashy.github.io-8c36db?style=flat-square&logo=hexo&logoColor=white" /></a>&emsp;
+<a href="https://quashy.github.io/feed.xml"><img src="https://img.shields.io/badge/RSS-订阅-orange?style=flat-square&logo=rss&logoColor=white" /></a>&emsp;
 <a href="https://x.com/Expired_Can"><img src="https://img.shields.io/badge/X-@Expired__Can-000000?style=flat-square&logo=x&logoColor=white" /></a>
 
 </div>
