@@ -49,6 +49,7 @@
 
 <!-- 博客 RSS 由 blog-post-workflow 自动同步，保留最近 99 篇 -->
 <!-- BLOG-POST-LIST:START -->
+- 📝 `2026-08-21` — [从流程图到状态机：我怎样落地一个审批需求](https://quashy.github.io/2026/lightweight-approval-workflow.html)
 - 📝 `2026-08-18` — [一次登录，到底发生了什么：从 Session 到 SSO、OAuth 2.0、OIDC 与 SAML](https://quashy.github.io/2026/understanding-sso-auth-protocols.html)
 - 📝 `2026-07-19` — [从全拼到双拼：我为什么做了「并击」](https://quashy.github.io/2026/from-quanpin-to-shuangpin.html)
 - 📝 `2026-07-16` — [如何参与开源项目](https://quashy.github.io/2026/how-to-contribute-to-open-source.html)
