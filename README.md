@@ -47,6 +47,10 @@
 
 `TypeScript` · `Electron` · `React` · `SQLite` · `Vite`
 
+## 🐱 披萨 · Pizza Cat Pets
+
+让披萨住进你的屏幕：[Pizza Cat Pets](https://github.com/Quashy/pizza-cat-pets) 提供写实与像素两种风格的猫咪虚拟宠物，也可以用自己的宠物照片制作。制作与安装提示词可直接复制使用。
+
 ## ✍️ 技术写作
 
 <!-- 博客 RSS 由 blog-post-workflow 自动同步，保留最近 99 篇 -->
