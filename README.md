@@ -41,7 +41,7 @@
 
 ### [TextRelay](https://github.com/Quashy/text-relay)
 
-通过四位大小写字母与数字组成的分享码传递纯文本，接收方在统一首页输入分享码即可查看内容，并提供单管理员后台管理。
+临时给同事分享一段提示词，不必为了传几行字先加好友、翻聊天记录或手抄长链接。把文本放进 TextRelay，告诉对方一个四位分享码，在统一页面输入就能查看、复制；分享过的内容由你在后台集中管理。
 
 ### [🐱 披萨 · Pizza Cat Pets](https://github.com/Quashy/pizza-cat-pets)
 
