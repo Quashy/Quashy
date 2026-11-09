@@ -39,6 +39,14 @@
 
 [在线体验](https://quashy.github.io/bingji-shuangpin/) · [阅读设计思路](https://quashy.github.io/2026/from-quanpin-to-shuangpin.html)
 
+### [TextRelay](https://github.com/Quashy/text-relay)
+
+通过四位大小写字母与数字组成的分享码传递纯文本，接收方在统一首页输入分享码即可查看内容，并提供单管理员后台管理。
+
+### 🐱 披萨 · Pizza Cat Pets
+
+让披萨住进你的屏幕：[Pizza Cat Pets](https://github.com/Quashy/pizza-cat-pets) 提供写实与像素两种风格的猫咪虚拟宠物，也可以用自己的宠物照片制作。制作与安装提示词可直接复制使用。
+
 ## 🔭 正在开发
 
 ### 拾刊 · 本地优先 RSS 阅读器
@@ -46,10 +54,6 @@
 面向 Windows 10/11 的本地优先 Electron RSS 阅读器，希望把订阅的作者与内容整理成更接近「刊物」的阅读体验。目前处于 MVP 开发阶段，仓库尚未公开。
 
 `TypeScript` · `Electron` · `React` · `SQLite` · `Vite`
-
-## 🐱 披萨 · Pizza Cat Pets
-
-让披萨住进你的屏幕：[Pizza Cat Pets](https://github.com/Quashy/pizza-cat-pets) 提供写实与像素两种风格的猫咪虚拟宠物，也可以用自己的宠物照片制作。制作与安装提示词可直接复制使用。
 
 ## ✍️ 技术写作
 
