@@ -1,4 +1,4 @@
-# Hi，我是秦晖洋（Quashy）👋
+# Hi，我是 Quashy 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Quashy&color=blue&style=flat-square&label=Profile+Views)
 
