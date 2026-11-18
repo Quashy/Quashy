@@ -1,12 +1,10 @@
-# Hi，我是 Quashy 👋
+# Hi，我是 Quashy 👋 ![Profile Views](https://komarev.com/ghpvc/?username=Quashy&color=blue&style=flat-square&label=Profile+Views)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Quashy&color=blue&style=flat-square&label=Profile+Views)
+> 软件应用开发者，关注 AI Agent、开发者工具和个人效率软件。
 
-> 软件应用开发者，关注 AI Agent、开发者工具与个人效率软件。
+我用 Java 和 Spring Boot 做后端与 AI 应用，也用 TypeScript、React 和 Electron 把日常遇到的问题做成自己会用的工具。
 
-我主要使用 Java、Spring Boot 构建后端与 AI Agent，也用 TypeScript、React、Electron 打磨自己想用的产品。
-
-目前关注软件应用开发，以及 Java 后端和 Java + AI 应用方向的工作机会。
+目前关注软件应用开发、Java 后端和 Java + AI 应用方向的工作机会。
 
 <div align="center">
 
@@ -17,35 +15,35 @@
 
 </div>
 
+## 最近在做
+
+最近我在试 Personal Agent 能接手哪些日常小事：把自家的猫做成桌宠，把微信读书的划线留在 Notion，也把记账变成一句话。
+
+- [Pizza Cat Pets](https://github.com/Quashy/pizza-cat-pets) — 我把家里的猫「披萨」做成了写实版和像素版桌宠，也把用宠物照片制作桌宠的步骤放了进去。
+- [微信读书 × Notion](https://github.com/Quashy/weread2notion-AI) — 把微信读书的划线和想法自动同步到 Notion，方便回看。这个版本基于 hodgekou 的同名项目。
+- [Notion 财务系统](https://github.com/Quashy/notion-finance-ai) — 说一句买了什么、花了多少钱，就能让 Agent 分类记进 Notion，也能核对退款对应的原支出。
+
+[从桌面养猫到一句话记账：我的三个 Personal Agent 小实践](https://quashy.github.io/2026/three-small-projects.html)
+
 ## 🛠️ 代表项目
-
-### [知衍 KnowWeave](https://github.com/Quashy/OpenWiki)
-
-把散落的 Markdown / TXT 文档整理成可浏览、可互链、可追溯的团队 Wiki，并支持知识图谱与带引用的单知识库问答。当前处于 v1 Demo 阶段，核心链路已跑通，但尚未达到生产就绪状态。
-
-`React` · `TypeScript` · `FastAPI` · `PostgreSQL` · `pgvector` · `Ollama`
 
 ### [OpenClaw4J](https://github.com/Quashy/OpenClaw4J)
 
-用 Java、Spring Boot 和 Spring AI 实现的本地优先 Agent 内核，包含 Agent 执行循环、工具调用、MCP 接入、本地记忆与工具安全治理。
+我想让 Agent 换个会话也能找回之前记下的事，就用 Java 做了 OpenClaw4J。它把记忆和规则存在本地，也能调用工具和设置提醒。
 
-`Java` · `Spring Boot` · `Spring AI` · `SQLite` · `MCP`
+### [知衍 KnowWeave](https://github.com/Quashy/OpenWiki)
 
-### [并击 · 双拼打字练习](https://github.com/Quashy/bingji-shuangpin)
-
-帮助全拼用户从键位学习逐步过渡到词组和真实文章训练，支持多套双拼方案、错题复习、本地训练记录与离线内容回退。
-
-`Next.js` · `React` · `TypeScript`
-
-[在线体验](https://quashy.github.io/bingji-shuangpin/) · [阅读设计思路](https://quashy.github.io/2026/from-quanpin-to-shuangpin.html)
+团队资料散在不同文件里，查到结论后还得找它出自哪份文档。知衍把资料整理成可以互相跳转的 Wiki，提问时也能点引用查看原文。目前是 v1 Demo，主要流程已跑通，还在验证生成质量。
 
 ### [TextRelay](https://github.com/Quashy/text-relay)
 
-临时给同事分享一段提示词，不必为了传几行字先加好友、翻聊天记录或手抄长链接。把文本放进 TextRelay，告诉对方一个四位分享码，在统一页面输入就能查看、复制；分享过的内容由你在后台集中管理。
+临时给同事传一段提示词，发到聊天里过几天就难找。TextRelay 给每段文字一个四位分享码，对方在首页输入就能查看和复制。
 
-### [🐱 披萨 · Pizza Cat Pets](https://github.com/Quashy/pizza-cat-pets)
+### [并击 · 双拼打字练习](https://github.com/Quashy/bingji-shuangpin)
 
-让披萨住进你的屏幕：[Pizza Cat Pets](https://github.com/Quashy/pizza-cat-pets) 提供写实与像素两种风格的猫咪虚拟宠物，也可以用自己的宠物照片制作。制作与安装提示词可直接复制使用。
+刚学双拼时，光看键位图很难记住每个键该用哪根手指按。我做了个练习网站，可以跟着指法提示练键位，再拿词组和文章练手。
+
+[在线体验](https://quashy.github.io/bingji-shuangpin/) · [阅读设计思路](https://quashy.github.io/2026/from-quanpin-to-shuangpin.html)
 
 ## 🔭 正在开发
 
